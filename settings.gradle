@@ -1,0 +1,9 @@
+include ':componentbase'
+include ':pay'
+include ':live'
+include ':login'
+include ':home'
+include ':my'
+include ':commlib'
+include ':app'
+rootProject.name = "ModuleTextt"

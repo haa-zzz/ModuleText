@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.live">
+
+    <application
+        android:allowBackup="false"
+       >
+        <activity android:name=".LiveMainActivity">
+
+        </activity>
+    </application>
+
+</manifest>
